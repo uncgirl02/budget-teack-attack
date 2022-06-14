@@ -1,6 +1,6 @@
 {
     "name": "Budget-Track-Attack",
-    "short_name": "Budget-Tracker",
+    "short_name": "Budget_Tracker",
     "icons": [
         {
           "src": "/public/icons/icon-72x72.png",
