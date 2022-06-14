@@ -1,6 +1,4 @@
-# budget-track-attack
-
-# Awesome Team Directory
+# Budget Track Attack
     
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -27,7 +25,6 @@ Run "npm install" to install the required packages.
 Run "server.js" from the command line and visit https://localhost:3001 or simply visit the deployed application at https://guarded-river-93153.herokuapp.com/.
 
 ![Budget Tracker Screenshot](./assets/images/screenshot.png)
-
 
 
 ## License
